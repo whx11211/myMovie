@@ -1,0 +1,369 @@
+﻿@import url(reset.css);
+body{
+    background: #f1fafa;
+}
+#alltop{
+    height: 45px;
+    width:100%;
+    color: rgb(255,255,255);
+    background: linear-gradient(to bottom,#086ed5,#055db5);
+    font:15px/45px '微软雅黑','黑体',sans-serif;
+    border-bottom:1px solid #CCC;
+    position:fixed;
+    top:0;
+    left:0;
+    z-index:99999;
+
+}
+#top{
+    width: 960px;
+    margin:auto;
+}
+#top .rp{
+    font-family: Arial,"宋体",Verdana;
+    font-size: 13px;
+    color:rgb(255,255,255);
+    float: right;
+}
+#top .ra{
+    color:rgb(180,0,33);
+    font-weight: 600;
+}
+#top .ra2{
+    color:rgb(180,0,33);
+}
+#top .la{
+    color:rgb(255,255,255);
+    float: left;
+
+    width: 45px;
+}
+#top #aimg{
+    float: left;
+    margin-left: -12px;
+}
+#top #abt{       
+    float: left;
+    background: red;
+    margin-left:50px;
+    display: block;
+    margin-top: 6px;
+    width: 60px;
+    height: 32px;
+    background:linear-gradient(to bottom,#0e7bef,#0d73da);
+    border: 1px solid #045bb2;
+    border-radius:4px;
+    font: 14px/32px '微软雅黑','黑体',sans-serif;
+    text-align: center;
+    color:rgb(255,255,255);
+
+}
+form{
+    width:330px;
+    height: 30px;
+    float: left;
+
+    display: block;
+    margin: 8px;
+
+}
+#search{
+    width:270px;
+    height: 30px;
+    background: rgb(255,255,255);
+    float :left;
+    border-radius: 2px ;
+}
+#search #inputkey{
+    height: 20px;
+    width: 260px;
+    border-style :none;
+    margin-left: 10px;
+    margin-top: 5px;
+    float:left;
+
+    color: rgb(180,192,202);
+}
+#top #inputbt{
+    display: block;
+    margin-top: -1px;
+    float: left;
+    width: 40px;
+    height: 32px;
+    background:linear-gradient(to bottom,#0e7bef,#0d73da);
+    border: 1px solid #045bb2;
+    border-radius:0px 4px 4px 0px;
+    color:rgb(255,255,255);
+
+}
+
+#mid{
+    width: 960px;
+    margin:50px auto 0;
+}
+
+#left{
+    width: 660px;
+    height: 1000px;
+    float: left;
+}
+.left11{
+    width: 660px;
+    height: 1000px;
+    float: left;
+}
+
+#left #title{
+    font-size: 14px;
+    color: #666;
+    font-weight: 600;
+    height: 20px;
+    margin: 10px 0 8px;
+    
+}
+#left .title1{
+    font-size: 15px;
+    color: #666;
+    font-weight: 700;
+    height: 20px;
+    margin: 10px 0 8px;
+    
+}
+
+#left #icon {
+    width: 16px;
+    height: 16px;
+    margin-right: 10px;
+    margin-top: 3px;
+    background: url('../images/icon.png');
+    background-position: -71px -88px;
+    float: left;
+}
+#left #leftmid{
+    width: 100%;
+    background: ;
+    border-top: 1px solid #ccc;
+    padding-top: 5px;
+    
+
+}
+#left #none{
+    width: 98.4%;
+    padding: 5px 0 10px 10px;
+    font-size: 13px;
+    color: #666;
+    font-weight: 600;
+    margin:0 5px 10px 0 ;
+    border-bottom: 0.5px dotted #ccc;
+
+}
+#left .leftpost{
+    width: 98.4%;
+    background: ;
+    border: 0.5px solid #ccc;
+    padding: 5px ;
+    margin-bottom: -1px;
+    font-size: 12px;
+    color: #666;
+    font-weight: 500;
+    line-height: 25px;
+}
+.leftpost .post1{
+    border-bottom: 0.5px dotted #ccc;
+    margin: 5px 15px;
+    height: 30px;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 0 20px 0 5px;
+}
+.leftpost .post2{
+    margin: 5px 15px;
+    font-size: 13px;
+    font-weight: 550;
+    padding: 7px;
+    overflow: auto;
+    
+}
+.post1 a{
+    float: left;
+    margin-left: 47px;
+    color: #666;
+    position:absolute;
+}
+.post1 .a1{
+    float: left;
+    margin: 0;
+    color: #666;
+
+}
+.post1 l{
+    float: right;
+    color: #666;
+    font-size: 12px;
+    font-weight: 500;
+}
+#leftmid .list{
+    margin: 10px 0 15px 0;
+    border-bottom: 1px dotted #ccc;
+    height: 89px;
+}
+#leftmid #f{
+    width: 645px;
+
+}
+#leftmid #p{
+    width: 655px;
+    margin-left: 0px;
+
+}
+#leftmid #ins{
+    display: block;
+    margin: 6px 0;
+    width: 80px;
+    height: 35px;
+    background:rgb(57,139,252);
+    border: 1px solid rgb(55,130,247);
+    border-radius:3px;
+    font: 18px '微软雅黑','黑体',sans-serif;
+    text-align: center;
+    color:rgb(255,255,255);
+
+}
+#leftmid #ins:hover{
+    background:#3284F5;
+}
+#leftmid #int{
+    width: 633px;
+    height: 25px;
+    padding: 4px;
+    margin: 4px 0;
+
+}
+#leftmid #int:hover{
+    border:1px solid rgb(55,130,247);
+}
+#leftmid #inta{
+    width: 640px;
+    height: 25px;
+    padding: 4px;
+}
+.list1{
+    width: 10%;
+    height: 30px;
+    float: left;
+}
+.list1 .count{
+    overflow: hidden;
+    width: 50px;
+    height: 30px;
+    line-height: 30px;
+    margin: 0;
+    text-align: center;
+    color: rgb(129,146,210);
+    background: rgb(247,247,247);
+    border-radius: 4px;
+}
+
+.list2{
+    width: 90%;
+    height: 30px;
+    float: left;
+}
+.list2 .listtitle{
+    color: #259;
+    font-size: 16px;
+    line-height: 30px;
+    height: 30px;
+    width: 450px;
+    overflow: hidden;
+}
+.list2 .f1{
+    float: left;
+    color: #666;
+    line-height: 24px;
+    height: 48px;
+    width: 450px;
+    font-size: 12px;
+    overflow: hidden;
+}
+
+.list2 .f2{
+    float: right;
+    margin-right: 70px;
+    color: #666;
+    line-height: 24px;
+    font-size: 12px;
+}
+.list2 .a3{
+    float: right;
+    margin-right: 70px;
+    color: gray;
+    line-height: 24px;
+    font-size: 14px;
+}
+
+.list2 .f4{
+    float: right;
+    margin-right: 76px;
+    color: #666;
+    line-height: 24px;
+    font-size: 12px;
+}
+#right{
+    width: 270px;
+    height: 1000px;
+    float: right;
+}
+#right img{
+    border-radius: 4px;
+    margin-top: 10px;
+}
+#right a{
+    position: relative;
+    display: block;
+    height: 28px;
+    line-height: 28px;
+    font-size: 14px;
+    color: #666;
+}
+.rgroup{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 6px;
+    border-bottom: 1px dotted #ccc;
+}
+.page{
+    font-size: 12px;
+    height: 40px;
+    border-bottom: 1px solid #ccc;
+}
+.page .a1{
+    display: block;
+    float: left;
+    padding: 1px 8px ;
+    height: 22px;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: center;
+    color: rgb(80,80,80);
+    border: none;
+}
+.page .a1:hover{
+    background: #f1fafa;
+}
+.page a{
+    display: block;
+    float: left;
+    padding: 0 8px ;
+    height: 20px;
+    border: 1px solid rgb(231,236,240);
+    border-radius: 2px;
+    margin: 0 4px 0 4px;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: center;
+    color: rgb(80,80,80);
+}
+.page a:hover{
+    background: rgb(233,241,247);
+}

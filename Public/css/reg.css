@@ -1,0 +1,72 @@
+﻿@import url(reset.css);
+body{
+    background:#f1fafa;
+}
+#main{
+    width: 450px;
+    height: 500px;
+    margin: 20px auto;
+}
+img{
+    margin: 0 auto;
+}
+h2{
+    margin: 15px 0 30px; 
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #555;
+}
+.in1{
+    margin: 0 auto;
+    display: block;
+    width: 240px;
+    height: 40px;
+    border:1px solid rgb(235,236,237);
+    padding: 5px;
+    margin-bottom:-1px; 
+    border-radius: 2px;
+}
+#d1{
+    margin: 0 auto;
+    display: block;
+    width: 240px;
+    height: 18px;
+    margin-top: 10px;
+    font-size: 15px;
+    color: #555;
+}
+.bt{
+    display: block;
+    background: rgb(85,171,237);
+    margin: 10px auto;
+    width: 250px;
+    height: 40px;
+    color: rgb(255,255,255);
+    font-size: 16px;
+    border: none;
+    border-radius: 2px;
+}
+.bt:hover{
+    background: rgb(60,130,213);
+}
+#rl{
+    width: 100px;
+    margin: 10px auto;
+}
+#rl a{
+    color:#777;
+    text-align: center;
+}
+#rl a:hover{
+    color:black;
+    text-align: center;
+}
+#rl .a1{
+    color: rgb(50,147,217);
+    text-decoration: underline;
+}
+#rl .a1:hover{
+    color: rgb(50,147,217);
+    text-decoration: underline;
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<script>
+	window.UEDITOR_HOME_URL = "/tp3/Public/ueditor/";
+</script>
+<head>
+    <meta charset="UTF-8">
+    <title>ueditor demo</title>
+</head>
+<style>
+	form{
+		width:600px;
+		height:500px;
+		margin: 0 auto;
+	}
+
+</style>
+<html>
+	<body>
+		<div>
+			<form action="01.php" method="post">
+				<script  id="goods_desc" name="goods_desc" type="text/plain">
+					请编辑商品详情
+				</script>
+				<br/>
+				<input type="submit" value="提交">
+				<input type="button" value="获取编辑器内容（Ajax）" onclick="t1();">
+			</form>
+
+		</div>
+		<script type="text/javascript" src="ueditor.config.js"></script>
+		<script type="text/javascript" src="ueditor.all.js"></script>
+		<script type="text/javascript" >
+			var editor =UE.getEditor('goods_desc');
+			function t1(){
+				alert(editor.getContent());
+			}
+		</script>
+
+
+</html>

@@ -1,0 +1,100 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<title>我的电影论坛</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="__PUBLIC__/css/reset.css" />
+<link rel="stylesheet" href="__PUBLIC__/css/index.css" />
+</head>
+    <body>
+        <div id="alltop"> 
+          <div id="top">
+            <a id="aimg" href="{$Think.URL_ROOT_PATH}index.php/home/"><img src="__PUBLIC__/images/logo.png" alt="电影论坛" /></a>
+              <form action="{$Think.URL_ROOT_PATH}index.php/home/index/search">
+                <div id="search">
+                  <input type="text" id="inputkey" name="key" placeholder="搜索你感兴趣的电影"/>
+                </div>
+                <input type="submit" id="inputbt"  value="搜索"/>
+              </form>
+            <a class="la" href="{$Think.URL_ROOT_PATH}index.php/home/">首页</a>
+            <a class="la" href="{$Think.URL_ROOT_PATH}index.php/home/index?mo=1">最新</a>
+            <a class="la" href="{$Think.URL_ROOT_PATH}index.php/home/index?mo=2">最热</a>
+            <a class="la" href="{$Think.URL_ROOT_PATH}index.php/home/index?mo=3">消息</a>
+            <a id="abt" href="{$Think.URL_ROOT_PATH}index.php/home/post/add">发帖</a>
+
+            <p class="rp">您好,<a class="ra" href="{$Think.URL_ROOT_PATH}index.php/home/index?mo=5">{$username}</a>,欢迎回来！<a class="ra2" href="{$Think.URL_ROOT_PATH}index.php/home/User/logout">退出</a></p>
+          </div>
+        </div>
+        <div id="mid">
+          <div id="left">
+            <div id="title">
+              <i id="icon"></i>
+              {$mulu}
+            </div>
+            <div id="leftmid">
+              <?php if(empty($post)){?>
+              <div id='none'><?php echo '搜索不到任何东西'; ?></div>
+              <?php } ?>
+              <volist name="post" id="p" >
+                <div class="list">
+                  <div class="list1">
+                    <p class="count">{$p['reply']}</p>
+                  </div>
+                  <div class="list2">
+                    <a href="{$Think.URL_ROOT_PATH}index.php/home/post?postid={$p['postid']}" title="{$p['title']}" target="_blank" class="listtitle">{$p['title']}</a>
+                    <a class="a3" href="">{$p['username']}</a>
+                    <p>
+                      <f class="f1">{$p['postdesc']|strip_tags=###}</f>
+                      <f class="f2">{$p['posttime']|date="m-d",###}</f>
+                    </p>
+                  </div>
+                </div>
+              </volist>
+              <div style="clear:both"></div>
+              <div class="page">
+                <volist name="fy" id="pp">
+                  {$pp}
+                </volist>
+                <a class="a1" style="float:right;margin-right:">{$count}   {$y}</a>
+              </div>
+            </div>
+          </div>
+          <div id="right">
+            <img src="__PUBLIC__/images/right.png" alt="" />
+            <div class="rgroup">
+              <ul>
+                <li>
+                  <a href="{$Think.URL_ROOT_PATH}index.php/home/index?mo=5">我发布的帖子 </a>
+                </li>
+                <li>
+                  <a href="{$Think.URL_ROOT_PATH}index.php/home/index?mo=4">我回复的帖子 </a>
+                </li>
+                <li>
+                  <a href="{$Think.URL_ROOT_PATH}index.php/home/index?mo=3">收到的回复 </a>
+                </li>
+                <li>
+                  <a href="">我关注的帖子</a>
+                </li>
+              </ul>
+            </div>
+            <div class="rgroup">
+              <ul>
+              <ul>
+                <li>
+                  <a  href="{$Think.URL_ROOT_PATH}index.php/home/">论坛首页 </a>
+                </li>
+                <li>
+                  <a  href="{$Think.URL_ROOT_PATH}index.php/home/index?mo=2">热门帖子 </a>
+                </li>
+                <li>
+                  <a  href="">话题中心 </a>
+                </li>
+                <li>
+                  <a  href="">公共编辑中心</a>
+                </li>
+              </ul>
+            </div>
+          <img src="__PUBLIC__/images/right2.png" alt="" />
+        </div>
+    </body>
+</html>

@@ -1,0 +1,96 @@
+[ 2016-04-03T14:20:50+08:00 ] ::1 /tp3/home/index/serach?s=%E5%8A%9F%E5%A4%AB
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+ERR: 无法加载模块:功夫
+
+[ 2016-04-03T14:22:40+08:00 ] ::1 /tp3/home/index/serach?s=%E5%8A%9F%E5%A4%AB
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+ERR: 无法加载模块:功夫
+
+[ 2016-04-03T14:22:57+08:00 ] ::1 /tp3/home/index/search?s=%E5%8A%9F%E5%A4%AB
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+ERR: 无法加载模块:功夫
+
+[ 2016-04-03T14:29:00+08:00 ] ::1 /tp3/home/index/search?s=%E5%8A%9F%E5%A4%AB
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+ERR: 无法加载模块:功夫
+
+[ 2016-04-03T14:29:20+08:00 ] ::1 /tp3/home/index/search?s=%E5%8A%9F%E5%A4%AB
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+ERR: 无法加载模块:功夫
+
+[ 2016-04-03T14:32:56+08:00 ] ::1 /tp3/home/search?s=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+ERR: 无法加载模块:3
+
+[ 2016-04-03T14:33:52+08:00 ] ::1 /tp3/home/index/search?s=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+ERR: 无法加载模块:3
+
+[ 2016-04-03T14:34:09+08:00 ] ::1 /tp3/home/index/search?s=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+ERR: 无法加载模块:3
+
+[ 2016-04-03T14:36:06+08:00 ] ::1 /tp3/home/index/search?s=HD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+ERR: 无法加载模块:HD
+
+[ 2016-04-03T14:36:31+08:00 ] ::1 /tp3/home/index/search?s=HD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+ERR: 无法加载模块:HD
+
+[ 2016-04-03T14:39:14+08:00 ] ::1 /tp3/home/index/search?s=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001056s ]
+ERR: 无法加载模块:3
+
+[ 2016-04-03T15:09:51+08:00 ] ::1 /tp3/home/index/search?page=1&s=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+ERR: 无法加载模块:3
+
+[ 2016-04-03T15:10:07+08:00 ] ::1 /tp3/home/index/search?s=3&page=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000891s ]
+ERR: 无法加载模块:3
+
+[ 2016-04-03T15:10:14+08:00 ] ::1 /tp3/home/index/search?s=3&page=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 无法加载模块:3
+
+[ 2016-04-03T15:11:54+08:00 ] ::1 /tp3/home/index/search?s=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000800s ]
+ERR: 无法加载模块:2
+
+[ 2016-04-03T15:16:09+08:00 ] ::1 /tp3/home/index/search?s=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+ERR: 无法加载模块:2
+

@@ -1,0 +1,221 @@
+[ 2017-08-28T10:15:49+08:00 ] ::1 /tp3/
+ERR: 模板不存在:./yz/Home/View/Index/index.html
+
+[ 2017-08-28T10:25:24+08:00 ] ::1 /tp3/
+ERR: 模板不存在:./yz/Home/View/Index/index.html
+
+[ 2017-08-28T10:25:33+08:00 ] ::1 /tp3/
+ERR: 模板不存在:./yz/Home/View/Index/index.html
+
+[ 2017-08-28T10:26:54+08:00 ] ::1 /tp3/
+ERR: 模板不存在:./yz/Home/View/Index/index.html
+
+[ 2017-08-28T10:27:54+08:00 ] ::1 /tp3/index.php/home/User/login
+ERR: 无法加载控制器:User
+
+[ 2017-08-28T10:33:04+08:00 ] ::1 /tp3/yz.php/home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.022001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] The use statement with non-compound name 'Think' has no effect E:\wamp\www\tp3\yz\Home\Controller\LoginController.class.php 第 4 行.
+ERR: 无法加载控制器:Login
+
+[ 2017-08-28T10:33:32+08:00 ] ::1 /tp3/yz.php/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] The use statement with non-compound name 'Think' has no effect E:\wamp\www\tp3\yz\Home\Controller\IndexController.class.php 第 4 行.
+ERR: 无法加载控制器:Index
+
+[ 2017-08-28T10:34:15+08:00 ] ::1 /tp3/yz.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] The use statement with non-compound name 'Think' has no effect E:\wamp\www\tp3\yz\Home\Controller\IndexController.class.php 第 4 行.
+ERR: 无法加载控制器:Index
+
+[ 2017-08-28T10:35:48+08:00 ] ::1 /tp3/yz.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] The use statement with non-compound name 'Think' has no effect E:\wamp\www\tp3\yz\Home\Controller\IndexController.class.php 第 4 行.
+ERR: 无法加载控制器:Index
+
+[ 2017-08-28T10:36:09+08:00 ] ::1 /tp3/yz.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] The use statement with non-compound name 'Think' has no effect E:\wamp\www\tp3\yz\Home\Controller\IndexController.class.php 第 4 行.
+ERR: 无法加载控制器:Index
+
+[ 2017-08-28T10:36:26+08:00 ] ::1 /tp3/yz.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] The use statement with non-compound name 'Think' has no effect E:\wamp\www\tp3\yz\Home\Controller\IndexController.class.php 第 4 行.
+ERR: 无法加载控制器:Index
+
+[ 2017-08-28T10:37:04+08:00 ] ::1 /tp3/yz.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] The use statement with non-compound name 'Think' has no effect E:\wamp\www\tp3\yz\Home\Controller\IndexController.class.php 第 4 行.
+ERR: 无法加载控制器:Index
+
+[ 2017-08-28T10:43:44+08:00 ] ::1 /tp3/yz.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] The use statement with non-compound name 'Think' has no effect E:\wamp\www\tp3\yz\Home\Controller\IndexController.class.php 第 4 行.
+ERR: 无法加载控制器:Index
+
+[ 2017-08-28T10:43:45+08:00 ] ::1 /tp3/yz.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] The use statement with non-compound name 'Think' has no effect E:\wamp\www\tp3\yz\Home\Controller\IndexController.class.php 第 4 行.
+ERR: 无法加载控制器:Index
+
+[ 2017-08-28T10:43:45+08:00 ] ::1 /tp3/yz.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] The use statement with non-compound name 'Think' has no effect E:\wamp\www\tp3\yz\Home\Controller\IndexController.class.php 第 4 行.
+ERR: 无法加载控制器:Index
+
+[ 2017-08-28T10:43:45+08:00 ] ::1 /tp3/yz.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] The use statement with non-compound name 'Think' has no effect E:\wamp\www\tp3\yz\Home\Controller\IndexController.class.php 第 4 行.
+ERR: 无法加载控制器:Index
+
+[ 2017-08-28T10:43:45+08:00 ] ::1 /tp3/yz.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] The use statement with non-compound name 'Think' has no effect E:\wamp\www\tp3\yz\Home\Controller\IndexController.class.php 第 4 行.
+ERR: 无法加载控制器:Index
+
+[ 2017-08-28T10:43:48+08:00 ] ::1 /tp3/yz.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] The use statement with non-compound name 'Think' has no effect E:\wamp\www\tp3\yz\Home\Controller\IndexController.class.php 第 4 行.
+ERR: 无法加载控制器:Index
+
+[ 2017-08-28T10:43:48+08:00 ] ::1 /tp3/yz.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] The use statement with non-compound name 'Think' has no effect E:\wamp\www\tp3\yz\Home\Controller\IndexController.class.php 第 4 行.
+ERR: 无法加载控制器:Index
+
+[ 2017-08-28T10:43:48+08:00 ] ::1 /tp3/yz.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] The use statement with non-compound name 'Think' has no effect E:\wamp\www\tp3\yz\Home\Controller\IndexController.class.php 第 4 行.
+ERR: 无法加载控制器:Index
+
+[ 2017-08-28T10:46:26+08:00 ] ::1 /tp3/yz.php/home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] The use statement with non-compound name 'Think' has no effect E:\wamp\www\tp3\yz\Home\Controller\LoginController.class.php 第 4 行.
+ERR: 无法加载控制器:Login
+
+[ 2017-08-28T10:52:22+08:00 ] ::1 /tp3/yz.php/home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] The use statement with non-compound name 'Think' has no effect E:\wamp\www\tp3\yz\Home\Controller\LoginController.class.php 第 4 行.
+ERR: 无法加载控制器:Login
+
+[ 2017-08-28T10:52:26+08:00 ] ::1 /tp3/yz.php/home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] The use statement with non-compound name 'Think' has no effect E:\wamp\www\tp3\yz\Home\Controller\LoginController.class.php 第 4 行.
+ERR: 无法加载控制器:Login
+
+[ 2017-08-28T10:52:26+08:00 ] ::1 /tp3/yz.php/home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] The use statement with non-compound name 'Think' has no effect E:\wamp\www\tp3\yz\Home\Controller\LoginController.class.php 第 4 行.
+ERR: 无法加载控制器:Login
+
+[ 2017-08-28T10:54:18+08:00 ] ::1 /tp3/yz.php/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-08-28T10:54:29+08:00 ] ::1 /tp3/yz.php/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
